@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{3E977B72-1518-40C7-86CC-84BB72CE892A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{2FC99F61-5FB2-44BA-B13F-407E348089BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E977B72-1518-40C7-86CC-84BB72CE892A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E977B72-1518-40C7-86CC-84BB72CE892A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E977B72-1518-40C7-86CC-84BB72CE892A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E977B72-1518-40C7-86CC-84BB72CE892A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC99F61-5FB2-44BA-B13F-407E348089BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC99F61-5FB2-44BA-B13F-407E348089BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC99F61-5FB2-44BA-B13F-407E348089BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC99F61-5FB2-44BA-B13F-407E348089BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D90038EC-E8DE-48D9-96CB-E20C5CE44FE1}
+	EndGlobalSection
+EndGlobal
