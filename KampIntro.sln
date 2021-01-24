@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\Kamp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{2FC99F61-5FB2-44BA-B13F-407E348089BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{2E7EA0EB-413C-4384-9583-8315FD515739}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2FC99F61-5FB2-44BA-B13F-407E348089BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FC99F61-5FB2-44BA-B13F-407E348089BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FC99F61-5FB2-44BA-B13F-407E348089BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7EA0EB-413C-4384-9583-8315FD515739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7EA0EB-413C-4384-9583-8315FD515739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7EA0EB-413C-4384-9583-8315FD515739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7EA0EB-413C-4384-9583-8315FD515739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
